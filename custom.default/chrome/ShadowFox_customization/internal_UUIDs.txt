@@ -1,0 +1,4 @@
+webcompat@mozilla.org=fa8bc878-ec27-4c43-860d-1250f0c5fe40
+screenshots@mozilla.org=8be90e62-9738-4b49-8114-dde14801ea5e
+adnauseam@rednoise.org=f1fd8a2b-3ede-49bc-8597-49d9e6a9e758
+vim-vixen@i-beam.org=5e41c6b9-76ed-4824-9b31-6a07cee38839
